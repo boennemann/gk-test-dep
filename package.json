@@ -11,5 +11,9 @@
   },
   "devDependencies": {
     "semantic-release": "^4.3.5"
+  },
+  "engines": {
+    "node": "4",
+    "npm": "^3.5"
   }
 }
