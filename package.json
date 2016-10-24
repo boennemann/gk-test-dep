@@ -10,6 +10,6 @@
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "devDependencies": {
-    "semantic-release": "^4.3.5"
+    "semantic-release": "^1.3.5"
   }
 }
