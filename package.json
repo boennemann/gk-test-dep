@@ -12,5 +12,8 @@
   },
   "devDependencies": {
     "semantic-release": "^4.3.5"
+  },
+  "dependencies": {
+    "animals": "0.0.3"
   }
 }
